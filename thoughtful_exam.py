@@ -1,6 +1,4 @@
 
-
-
 def sort(width: int, height: int, length: int, mass: int) -> str:
     volume = width * height * length
 
